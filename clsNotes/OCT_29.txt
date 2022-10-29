@@ -1,0 +1,83 @@
+TODAY CLASS
+######################
+ - Introduction to Programming Lang's
+	- Types
+	- How Computer Understands code?
+	
+ - Python Introduction
+	- what is python?
+	- why python?
+	- Pro/Cons.
+- How Python Interpreter Works?
+
+- Ways To Create Python Files?
+
+- Installation 	
+	-- Python Interpreter. (.py ) ---- > machine code.
+	-- Jupyter notebook
+	-- VsCode(Visual Studio Code) -- IDE (running , synatx , debugging , project structure)
+			- Pycharm
+			- Sublime
+			- IntelliJ
+- Sample Program in Python
+	- running in cmd , VsCode , JupyterNotebook.
+	
+	
+- AFTER DOWNLOADING
+	- open cmd
+	python --version or python -V
+	
+- What is CMD ?
+	- popular commands
+	   - dir
+	   - cd 
+	   - mkdir
+	   - rmdir
+	   - notepad
+- RUN the source file(.py)
+		python filename.py
+		
+		
+## COMPTETITIVE PLATFORMS
+	- hacker rank
+	- hacker earth
+	- LeetCode
+
+### Ready with Installation 
+	- python
+	- vscode
+
+
+## HOW TO SET THE PATH ?
+
+	WINDOW + R == RUN BOX  and type : appdata 
+	GO TO THIS PATH --> C:\Users\ACER\AppData\Local\Programs\Python\Python311
+	COPY THE PATH 
+	OPEN ENV VARIABLES
+	UNDER SYSTEM VAR/ choose PATH and paste the copied Python Installation path.
+	Save the changes 
+	Again Open the CMD  and Type:
+		python --version 
+	
+
+###  29-10 TODAY CLASS
+	## Jupyter notebook Installation 	
+		- GO TO https://docs.conda.io/en/latest/miniconda.html
+		- Open the .exe downloaded file 
+		
+	## Create a New Floder  with name PythonSession
+	    - Go the floder and copy the path 
+		-  OPEN Anaconda Prompt  from windows search 
+		- cd <path of floder>
+		- install : pip install jupyter notebook
+		- open : jupyter notebook
+		
+		
+		
+	- Py2 vs Py3
+	- PRINT FUNCTION() 
+	- COMMENTS 
+	- VARIABLES 
+	
+	
+## READY WITH JUPYTER NOTEBOOK
