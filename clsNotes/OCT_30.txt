@@ -1,0 +1,13 @@
+## 30/10 TODAY CLASS 
+
+		#HISTORY
+			- 1991 : Py 1.0 
+			- 2000 : Py 2.0
+			- 2010 : Py 3.0 
+				present 3.11.0
+	- Py2 vs Py3
+	- PRINT FUNCTION() 
+	- COMMENTS 
+	- VARIABLES 
+	
+	
