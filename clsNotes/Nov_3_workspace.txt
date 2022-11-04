@@ -1,0 +1,58 @@
+##LAST CLASSS
+	1. Python Interperter (HL/python ----> Machine code)
+		- Before Download , just check whether it is already there or not
+			- Open CMD 
+			- type: python --version or python -V
+			
+		- GO THIS https://www.python.org/ , Download the latest version and Run the .exe file.
+		- After Successful setup , Again open the CMD : type--> python --version.
+			- if you get any error , it means PATH is not set:
+				- Copy the installation path of Python : (C:\Users\ACER\AppData\Local\Programs\Python\Python311)
+				- Open Env Variable , create a new entry under Path.
+				- Once Done , again verify in cmd.
+				
+	2. VsCode(visualStudio code). 
+		- IDE (running , inbuild terminal , debugging , syntax suggestion , lots of extension)
+		- Go to this https://code.visualstudio.com/download and choose system installer.
+		- Open and Under Extension , install the 'python extension'.
+		- Next Open Floder , and start creating .py files and run the files.
+			- TWO to runs
+				- using Terminal 
+				- using UI : run button
+				
+	3. Git for windows.
+		- Source code management tool 
+		- which let's you keep track of every changes in a directory and also shares the code with others.
+		- Go the https://git-scm.com/download/win
+		- One it is done, you can verify with 
+			- open CMD : type --> git --version
+			
+		
+	4. JupyterNotebook (minicode)
+		- it's also tool to run your python code. 
+		## 	Go to https://docs.conda.io/en/latest/miniconda.html and download the exe.
+			- run the .exe file.
+			- Once it is completed : just search , Anaconda prompt is present or not.
+		## install the jupyter notebook
+			- open Anaconda Prompt 
+			- type : pip install jupyter notebook
+		## Open JupyterNotebook 
+			- Open the Anaconda Prompt 
+			- cd path 
+			- type : jupyter notebook (--- Jupyter Server in background  | you will get a Jupyter UI in browser.)
+			
+			
+### Workspace setup:
+	1. Create main floder with some name ---> PythonTraining.
+			- create two sub-floders
+				->  my-python
+				->  python-org
+	2. Go to PythonTraining/python-org
+		- Open GitBash by right click on empty screen
+		- Do the git clone 
+			- git clone https://github.com/SaiMedhaInst/Python-Esstentials
+	3. TO PULL (get the new changes)
+		- Go to this path : PythonTraining/python-org and open Git Bash
+		- type : git status (it should be nothing to comit)
+		- type: git pull ( it will fetch all changes into the local system)
+		
