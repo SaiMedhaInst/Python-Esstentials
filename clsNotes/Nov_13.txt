@@ -1,0 +1,95 @@
+
+##LAST CLASS 
+	- What is Programming Language
+	- Types 
+	- How computer's code understands 
+	
+	# Python Introductions
+		- What is Python
+		- Why only Python in 2022?
+		- Applications.
+	#Installation Tools
+		- Python Interpreter
+		- VSCODE 
+		- JUPYTER NOTEBOOK
+	## RUN Python
+		- Different ways to create a python files
+			- CMD 
+			- Python Shell
+			- VSCODE
+			- Jupyter notebook
+	# PY2 Vs Py3
+	# Print()
+		- value
+		- sep
+		- end
+		- file
+		- flush
+	#Comments
+		- single comments #
+		- mutliline comments '''  '''
+		
+		
+		
+	#Variables
+		- memory allocations
+		- types of memory
+		- rules 
+	#Data Types
+		- int , float , str , boolean , complex
+		- list , tuple , set , dictionary 
+		
+	
+	###List 
+		- It's a collectional data types , which stores mutliple items in single variables.
+		- Mutable 
+		- Indexing
+		#methods
+			- append()
+			- insert()
+			- extend()
+			- remove()
+			- pop()
+			- copy()
+			- clear()
+			- sort(reverse=False) #True = Desc
+			- count()
+			- index()
+	##Tuple 
+		- Immutable
+		- Indexing
+		##Method
+			- index()
+			- count()
+			
+	##Set 
+		- No duplicates
+		- No Order , NO index
+		- Mutable
+		#methods
+		- union()
+		- intersection()
+		- difference()
+		- remove()
+		- discard()
+		- pop()
+		
+	##Dictionary 
+		- Based on key:value
+		- Keys should be immutable and unique
+			:: Immuatable 	
+					- str
+					- tuple 
+					- int , float , complex , boolean
+					
+		##methods 
+			- keys()
+			- values()
+			- items()
+			- pop()
+			- popitem()
+			- update()
+			- get()
+			
+			
+			
