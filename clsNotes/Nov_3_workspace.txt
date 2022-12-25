@@ -50,7 +50,8 @@
 	2. Go to PythonTraining/python-org
 		- Open GitBash by right click on empty screen
 		- Do the git clone 
-			- git clone https://github.com/SaiMedhaInst/Python-Esstentials
+			- git clone https://github.com/anil-k-rajamoni18/Python-Esstentials.git
+			
 	3. TO PULL (get the new changes)
 		- Go to this path : PythonTraining/python-org and open Git Bash
 		- type : git status (it should be nothing to comit)
